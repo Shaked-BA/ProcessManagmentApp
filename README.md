@@ -22,5 +22,7 @@ Project is created with:
 
 ### The App
 ![the-app](pictures/taskManager1.png)
+
 ![file-menu](pictures/taskManager2.png)
+
 ![end-task](pictures/taskManager3.png)
